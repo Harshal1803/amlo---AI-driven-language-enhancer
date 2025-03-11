@@ -23,6 +23,7 @@ Download the setup from the **Releases** Section(v1.1.0)
 
 ## How to Use?
 You're writing something and you think you need assistance for this, press <**ALT+A**> and the GUI will open up like this...
+
 ![image](https://github.com/user-attachments/assets/18748375-da73-4db8-a7e4-827deafa11ed)
 
 After that, copy the text you need assistance with, and paste it in the text-area and youre ready to play :)
